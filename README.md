@@ -1,2 +1,2 @@
-# therapeutic-bed
+A reconfigurable therapeutic bed
  
