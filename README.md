@@ -1,4 +1,5 @@
-# A Reconfigurable Therapeutic Bed 
+# Therapeutic Bed 
+A Reconfigurable Therapeutic Bed 
 
 Flat Bed Position
 ![Flat Bed Position](https://github.com/dinu24/TherapeuticBed/blob/main/images/4.jpg)
